@@ -1,4 +1,5 @@
 # todo
+这是一个用Vue写的todolist小项目，封装了axios。
 
 ## Project setup
 ```
